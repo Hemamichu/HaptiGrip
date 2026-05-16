@@ -147,17 +147,4 @@ EMG,12345,30,10,10,10,10,0,idle
 | reset | Single buzz (on manual call) |
 | startup | Triple buzz |
 
----
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE)
-
----
-
-## 👩‍💻 Authors
-
-**Nathiya N · Hema M · Devadharshini D · Kanimozhi G**  
-Paavai College of Engineering, Tamil Nadu
-
 > *Paper presented at ITAI 2026 — Certificate No. SCRS/ITAI2026/PC/170*
