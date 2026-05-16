@@ -24,13 +24,14 @@ HaptiGrip is a command-driven prosthetic hand system built on Arduino with:
 
 \```
 haptigrip/
+
 ├── arduino/
 
-│   └── haptigrip.ino        # Arduino firmware (servo control + BT + EMG output)
+│   └── haptigrip.ino         # Arduino firmware (servo control + BT + EMG output)
 
 ├── python/
 
-│   └── visualizer.py        # Live finger angle graph via matplotlib
+│   └── visualizer.py         # Live finger angle graph via matplotlib
 
 ├── .gitignore
 
